@@ -1,0 +1,22 @@
+{
+  "arena": "Byblos",
+  "snake_color_name": "Berry Rose",
+  "snake_colors": {
+    "head": [
+      150,
+      83,
+      94
+    ],
+    "body": [
+      190,
+      120,
+      131
+    ]
+  },
+  "controls": {
+    "up": "up",
+    "down": "down",
+    "left": "left",
+    "right": "right"
+  }
+}
